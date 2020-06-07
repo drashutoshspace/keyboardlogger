@@ -1,1 +1,1 @@
-from keyboardlogger.logger import main
+from keyboardlogger import logger
