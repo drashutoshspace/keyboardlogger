@@ -1,0 +1,1 @@
+*keyboardlogger is designed to provide simple key logging functionality
